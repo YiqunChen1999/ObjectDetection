@@ -5,7 +5,7 @@ This repo shares papers, blogs, codes and some other resources about object dete
 
 ## Table of Contents
 
-| [Samll Object Detection](#small-object-detection) |
+| [Home](https://yiqunchen1999.github.io/ObjectDetection/) | [Samll Object Detection](#small-object-detection) |
 
 ## Small Object Detection
 
